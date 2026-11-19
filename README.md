@@ -1,1 +1,1 @@
-A Portfolio for my  internship provided by Future Interns, t was the first task I had to complete.
+This portfolio website was developed as my first task during my internship at Future Interns.
